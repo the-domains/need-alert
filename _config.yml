@@ -1,0 +1,26 @@
+color:
+  saturation: 0.5987121
+  brandStrength: 0.6714615
+  rhythmicContrast: 0.02598311
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  lightness: 0.5157648
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7478272
+typography_spectrum: 0.4088189
+name: Need Alert
